@@ -2,6 +2,10 @@ SBootPythonAi25
 스프링부트와파이썬을결합한AI풀스택개발
 
 스프링부트와파이썬AI협업모듈
+<img width="2813" height="1372" alt="image" src="https://github.com/user-attachments/assets/f451c4bb-f653-40d2-ba0c-ce9c15c1242e" />
+
+iptime ipcam을 셋팅한다. -> 리셋 -> ip휴대폰으로 연결 vms 셋팅을 진행한다. -> rtsp 프로토콜 활성화
+
 
 개발환경구축
 
